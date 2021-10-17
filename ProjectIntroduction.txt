@@ -1,2 +1,2 @@
-[Project Name: BayFoamX22]
+[Project Name: BayFoamX22.]
 Perhaps, a security check of all the devices connected to the router address to avoid cyberthreats.  
